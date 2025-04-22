@@ -1,5 +1,5 @@
 # thayupgrade
-# thaiany/README.md
+# thayup/README.md
 
 ## 👩‍💻 I'm Thaiany Santana
 
